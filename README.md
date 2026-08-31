@@ -14,7 +14,7 @@ Saya adalah siswa SMK jurusan RPL yang tertarik dengan dunia programming dan tek
 ## 📂 Project Saya
 
 ### 1. coding sederhana menghitung luas segitiga
-![galuhdesty7-pixel](README.md
+![galuhdesty7-pixel].(README.md
 Screenshot_2025_1022_112830.jpg)
 
 ###  2. Vehicle OOP
