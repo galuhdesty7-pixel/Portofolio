@@ -1,10 +1,10 @@
 # Portofolio
 ## Halo, aku Galuh 👋
 
-## Tentang Saya
+### Tentang Saya
 Saya adalah siswa SMK jurusan RPL yang tertarik dengan dunia programming dan teknologi.
 
-## 🛠️ Skill
+### 🛠️ Skill
 - HTML
 - CSS
 - Java
@@ -13,10 +13,10 @@ Saya adalah siswa SMK jurusan RPL yang tertarik dengan dunia programming dan tek
 
 ## 📂 Project Saya
 
-### 1. Kasir Mini Market
-Program sederhana untuk menghitung total belanja.
+### 1. coding sederhana menghitung luas segitiga
+!(galuhdesty7-pixel)[Screenshot_2025_1022_112830.jpg]
 
-### 2. Vehicle OOP
+###  2. Vehicle OOP
 Project Java tentang inheritance, encapsulation, dan polymorphism.
 
 ## 📫 Kontak
